@@ -18,8 +18,3 @@ This project aims to visualize CNN outputs by using Paraview. 5 of ImageNet clas
 - animations: Paraview animations of 5 examples, 1 from each class.
 - states: Saved states during visualizations.
 - create_nc.ipynb: Takes ResNet-50 outputs and generate NetCDF files.
-
-Project in GitHub:
-https://github.com/pathintegral/hbm516e-term_project
-
-Can Uslu, 702161008
